@@ -67,6 +67,14 @@ body div{
 
 }
 
+.text{
+    color: aliceblue;
+    position: absolute;
+    left: 10%;
+    right: 20%;
+    top: 60%;
+    font-size: xx-large;
+}
 
 .heart::after{
 
